@@ -1,0 +1,26 @@
+{
+  "name": "nw-versions",
+  "version": "1.0.0",
+  "description": "JSON details for NW.js versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJaredWilcurt/nw-versions.git"
+  },
+  "keywords": [
+    "nw.js",
+    "versions",
+    "nw",
+    "node-webkit",
+    "json"
+  ],
+  "author": "The Jared Wilcurt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheJaredWilcurt/nw-versions/issues"
+  },
+  "homepage": "https://github.com/TheJaredWilcurt/nw-versions#readme"
+}
